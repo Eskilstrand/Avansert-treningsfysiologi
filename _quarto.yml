@@ -12,8 +12,6 @@ website:
         href: fagstoff.qmd
       - text: "Diskusjon"
         href: diskusjoner.qmd
-      - text: "Trening"
-      - href: trening.qmd
 
 format:
   html:
