@@ -1,0 +1,21 @@
+project:
+  type: website
+
+bibliography: ref.bib
+
+website:
+  navbar:
+    left:
+      - text: "Avansert treningsfysiologi"
+        href: index.qmd
+      - text: "Fagstoff"
+        href: fagstoff.qmd
+      - text: "Diskusjon"
+        href: diskusjoner.qmd
+      - text: "Trening"
+      - href: trening.qmd
+
+format:
+  html:
+    css: styles.css
+    toc: false  # Deaktiverer automatisk innholdsfortegnelse

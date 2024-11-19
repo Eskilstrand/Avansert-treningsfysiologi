@@ -1,0 +1,13 @@
+---
+title: "Høyde & Varme"
+sidebar: true
+css: fagstoff.css
+---
+
+::: {.sidebar}
+## Fagstoff
+
+- [Muskelfysiologi](Muskelfysiologi.html)
+- [Blokkperiodisering](Blokkperiodisering.html)
+- [Høyde- og Varmetrening](HøydeVarmetrening.html)
+:::

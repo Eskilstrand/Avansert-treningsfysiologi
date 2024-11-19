@@ -1,0 +1,21 @@
+---
+title: "Ulikt fagstoff"
+sidebar: true
+css: fagstoff.css
+---
+
+::: {.sidebar}
+## Fagstoff
+
+- [Muskelfysiologi](Muskelfysiologi.html)
+- [Blokkperiodisering](Blokkperiodisering.html)
+- [Høyde- og Varmetrening](HøydeVarmetrening.html)
+:::
+
+# Velkommen til Fagstoff
+
+Her finner du ulike kapitler med fordypning i treningsfysiologi:
+
+- **Muskelfysiologi:** Utforsk mekanismer som styrer muskelvekst og styrke.
+- **Blokkperiodisering:** Strategisk planlegging av treningsbelastning.
+- **Høyde- og Varmetrening:** Tilpasninger til ekstreme miljøer.

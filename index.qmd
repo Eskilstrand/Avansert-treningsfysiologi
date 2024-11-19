@@ -1,0 +1,30 @@
+---
+title: "Introduksjon"
+---
+Dette nettsiden vil inneholde ulike notater fra avansert treningsfysiologi, både for å vedlikeholde egenskaper, og utvikle meg innen R & R-Studio, samt å ta gode notater fra forelesninger innenfor avansert treningsfysiologi. Nettsiden vil bli delt med enkelte medstudenter og det vil bli mulighet for diskusjoner og drøftinger. Dette gjøres for å oppnå enda bedre/mer kunnskap innenfor fagfeltet.
+
+## Læringsutbytte
+### Generell kompetanse
+* Kandidaten har evne til å innhente, evaluere og bruke eksisterende fagartikler på en reflektert og selvstendig måte.
+* Kandidaten kan utnytte tilegnet fagkunnskap til å reflektere over og iverksette egnede tiltak for å bedre helse- og prestasjonsvariabler.
+* Kandidaten kan komme med konkrete anbefalinger knyttet til fysisk aktivitet i et helse- og prestasjonsperspektiv
+* Kandidaten kan uttrykke seg muntlig og skriftlig i henhold til fagområdets egenart.
+
+## Arbeids- og undervisningsformer
+* Forelesning
+* Seminar
+
+## Vurdering
+### Eksamen i to deler
+* Individuell skriftlig hjemmeeksamen (1 uke) som vurderes med gradert bokstavkarakter (A-F) der E er laveste ståkarakter.
+* 30 min individuell muntlig presentasjon av oppgitt tema med påfølgende diskusjon og eksaminasjon som vurderes med gradert bokstavkarakter (A-F), der E er laveste ståkarakter.
+
+## Pensum
+
+* Artikler - Sentrale artikler på hvert tema
+
+* Bøker:
+1. ACSM´s Advanced Exercise Physiology, 2nd edition. Farrell. ISBN: 9780781797801
+2. Molecular Exercise Physiology An Introduction, 2th ED
+
+## Plan

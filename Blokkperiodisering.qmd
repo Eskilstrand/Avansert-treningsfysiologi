@@ -1,0 +1,22 @@
+---
+title: "Blokkperiodisering"
+sidebar: true
+css: fagstoff.css
+---
+
+::: {.sidebar}
+## Fagstoff
+
+- [Muskelfysiologi](Muskelfysiologi.html)
+- [Blokkperiodisering](Blokkperiodisering.html)
+- [Høyde- og Varmetrening](HøydeVarmetrening.html)
+:::
+
+
+## Introduksjon
+
+Blokkperiodisering av utholdenhetstrening handler om å dele opp treningen i bolker, med ulike fokusområder, i ulike treningsperioder. Dette skiller seg fra vanlig, tradisjonell utholdenhetstrening (gjerne omtalt som TRAD) hvor man gjerne følger en lik treningsrytme. Innenfor TRAD er man ofte interessert i å sørge for at det er lik treningsbelastning, og at den eventuelt er gradvis økende, ettersom man legger på mer trening, for å oppnå utvikling. 
+
+I blokkperiodisert trening ser man i større grad at det fokuseres på ett og ett fokusområde. Eksempelvis store bolker med mye mengde og lav intensitet, kanskje med innslag av en høy-intensiv (HIT) økt og/eller en moderat intensitetsøkt (MIT) for å opprettholde annet stimuli i samme periode. I andre perioder av treningen kan det være fokus på HIT-økter, og all annen trening blir satt til stede. 
+
+De mest avgjørende faktorene for utholdenhetsprestasjon er arbeidsøkonomi, utnyttningsgrad og $\dot{V}O_{2maks}$ [@Pate].
