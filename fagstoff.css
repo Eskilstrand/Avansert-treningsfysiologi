@@ -1,21 +1,33 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box; /* Gjør at padding ikke påvirker bredden */
+}
+
 body {
   display: flex;
   flex-direction: row;
-  margin: 0;
-  padding: 0;
-  font-family: "Times New Roman", Times, serif; /* Sett fonten */
+  height: 100vh; /* Sikrer at body fyller hele vinduet i høyden */
+  overflow-x: hidden; /* Hindrer horisontal scrolling */
+  font-family: "Times New Roman", Times, serif;
 }
 
 .sidebar {
   position: fixed;
   top: 60px; /* Juster etter navbaren */
   left: 0;
-  width: 250px;
-  height: 100vh;
+  width: 160px; /* Bredde på sidebaren */
+  height: calc(100vh - 60px); /* Fyller hele høyden minus navbaren */
   background-color: #f8f9fa;
   padding: 20px;
   box-shadow: 2px 0 5px rgba(0, 0, 0, 0.1);
   overflow-y: auto;
+}
+
+.sidebar ul {
+  list-style: none; /* Fjerner kulepunkter */
+  padding: 0; /* Fjerner standard padding */
+  margin: 0; /* Fjerner standard margin */
 }
 
 .sidebar h2 {
@@ -28,7 +40,7 @@ body {
   text-decoration: none;
   display: block;
   margin-bottom: 8px;
-  transition: color 0.3s ease; /* Legger til en myk overgang */
+  transition: color 0.3s ease; /* Myk overgang */
 }
 
 .sidebar a:hover {
@@ -36,9 +48,11 @@ body {
   text-decoration: underline;
 }
 
-/* Juster hovedinnhold for å ikke overlappe sidebaren */
 .content {
-  margin-left: 270px; /* Bredde på sidebar + margin */
+  margin-left: 180px; /* Bredde på sidebar + margin */
   padding: 20px;
-  font-family: "Times New Roman", Times, serif; /* Samme font her */
+  width: calc(100vw - 180px - 400px); /* Fyller bredden minus sidebar + margin */
+  height: calc(100vh - 60px); /* Fyller høyden minus navbar */
+  margin-right: 100px; /* Legg til margin på høyre side */
+  font-family: "Times New Roman", Times, serif;
 }

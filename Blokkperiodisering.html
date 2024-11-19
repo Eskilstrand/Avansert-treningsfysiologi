@@ -20,7 +20,27 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-</style>
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+  margin-bottom: 0em;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
 
 
 <script src="site_libs/quarto-nav/quarto-nav.js"></script>
@@ -67,6 +87,35 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 <link rel="stylesheet" href="styles.css">
 <link rel="stylesheet" href="fagstoff.css">
@@ -138,10 +187,22 @@ ul.task-list li input[type="checkbox"] {
 <li><a href="HøydeVarmetrening.html">Høyde- og Varmetrening</a></li>
 </ul>
 </section>
+<section id="introduksjon" class="level2">
+<h2 class="anchored" data-anchor-id="introduksjon">Introduksjon</h2>
+<p>Hei</p>
+<p>Blokkperiodisering av utholdenhetstrening handler om å dele opp treningen i bolker, med ulike fokusområder, i ulike treningsperioder. Dette skiller seg fra vanlig, tradisjonell utholdenhetstrening (gjerne omtalt som TRAD) hvor man gjerne følger en lik treningsrytme. Innenfor TRAD er man ofte interessert i å sørge for at det er lik treningsbelastning, og at den eventuelt er gradvis økende, ettersom man legger på mer trening, for å oppnå utvikling.</p>
+<p>I blokkperiodisert trening ser man i større grad at det fokuseres på ett og ett fokusområde. Eksempelvis store bolker med mye mengde og lav intensitet, kanskje med innslag av en høy-intensiv (HIT) økt og/eller en moderat intensitetsøkt (MIT) for å opprettholde annet stimuli i samme periode. I andre perioder av treningen kan det være fokus på HIT-økter, og all annen trening blir satt til stede.</p>
+<p>De mest avgjørende faktorene for utholdenhetsprestasjon er arbeidsøkonomi, utnyttningsgrad og <span class="math inline">\(\dot{V}O_{2maks}\)</span> <span class="citation" data-cites="Pate">(<a href="#ref-Pate" role="doc-biblioref">Pate and Kriska 1984</a>)</span>.</p>
 
 
 
-</main> <!-- /main -->
+</section>
+
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" role="list">
+<div id="ref-Pate" class="csl-entry" role="listitem">
+Pate, R R, and A Kriska. 1984. <span>“Physiological Basis of the Sex Difference in Cardiorespiratory Endurance.”</span> <em>Sports Med.</em> 1 (2): 87–98.
+</div>
+</div></section></div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
@@ -234,7 +295,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp('/' + window.location.host + '/');
+      var filterRegex = new RegExp("https:\/\/Eskilstrand\.github\.io\/Avansert-treningsfysiologi\/");
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }
