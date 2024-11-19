@@ -1,0 +1,44 @@
+body {
+  display: flex;
+  flex-direction: row;
+  margin: 0;
+  padding: 0;
+  font-family: "Times New Roman", Times, serif; /* Sett fonten */
+}
+
+.sidebar {
+  position: fixed;
+  top: 60px; /* Juster etter navbaren */
+  left: 0;
+  width: 250px;
+  height: 100vh;
+  background-color: #f8f9fa;
+  padding: 20px;
+  box-shadow: 2px 0 5px rgba(0, 0, 0, 0.1);
+  overflow-y: auto;
+}
+
+.sidebar h2 {
+  font-size: 1.5rem;
+  margin-bottom: 10px;
+}
+
+.sidebar a {
+  color: #000;
+  text-decoration: none;
+  display: block;
+  margin-bottom: 8px;
+  transition: color 0.3s ease; /* Legger til en myk overgang */
+}
+
+.sidebar a:hover {
+  color: #d4af37; /* Gullfarge */
+  text-decoration: underline;
+}
+
+/* Juster hovedinnhold for å ikke overlappe sidebaren */
+.content {
+  margin-left: 270px; /* Bredde på sidebar + margin */
+  padding: 20px;
+  font-family: "Times New Roman", Times, serif; /* Samme font her */
+}

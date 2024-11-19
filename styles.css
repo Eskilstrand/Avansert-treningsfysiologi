@@ -1,0 +1,14 @@
+/* Endre bakgrunnsfargen til navbar */
+.navbar {
+  background-color: #004080;
+}
+
+/* Endre tekstfargen i navbar */
+.navbar a {
+  color: white;
+}
+
+/* Endre hover-effekt */
+.navbar a:hover {
+  color: #FFD700;
+}
