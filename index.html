@@ -20,7 +20,27 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-</style>
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+  margin-bottom: 0em;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
 
 
 <script src="site_libs/quarto-nav/quarto-nav.js"></script>
@@ -166,17 +186,25 @@ ul.task-list li input[type="checkbox"] {
 <li><p>Bøker:</p></li>
 </ul>
 <ol type="1">
-<li>ACSM´s Advanced Exercise Physiology, 2nd edition. Farrell. ISBN: 9780781797801</li>
-<li>Molecular Exercise Physiology An Introduction, 2th ED</li>
+<li>ACSM´s Advanced Exercise Physiology, 2nd edition. Farrell. ISBN: 9780781797801<span class="citation" data-cites="farrellACSMsAdvancedExercise2012"><sup><a href="#ref-farrellACSMsAdvancedExercise2012" role="doc-biblioref">1</a></sup></span></li>
+<li>Molecular Exercise Physiology An Introduction, 2th ED<span class="citation" data-cites="sharplesMolecularExercisePhysiology2022"><sup><a href="#ref-sharplesMolecularExercisePhysiology2022" role="doc-biblioref">2</a></sup></span></li>
 </ol>
 </section>
 <section id="plan" class="level2">
-<h2 class="anchored" data-anchor-id="plan">Plan</h2>
+
+
 
 
 </section>
 
-</main> <!-- /main -->
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">Plan</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" data-line-spacing="2" role="list">
+<div id="ref-farrellACSMsAdvancedExercise2012" class="csl-entry" role="listitem">
+1. Farrell, P. A., Joyner, M. J., &amp; Caiozzo, V. J. (2012). <em><span>ACSM</span>’s advanced exercise physiology</em> (2nd ed). Wolters Kluwer Health/Lippincott Williams &amp; Wilkins.
+</div>
+<div id="ref-sharplesMolecularExercisePhysiology2022" class="csl-entry" role="listitem">
+2. Sharples, A. P., Morton, J., &amp; Wackerhage, H. (Eds.). (2022). <em>Molecular exercise physiology: An introduction</em> (Second edition). Routledge.
+</div>
+</div></section></div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
