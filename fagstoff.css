@@ -16,7 +16,7 @@ body {
   position: fixed;
   top: 60px; /* Juster etter navbaren */
   left: 0;
-  width: 160px; /* Bredde på sidebaren */
+  width: 180px; /* Bredde på sidebaren */
   height: calc(100vh - 60px); /* Fyller hele høyden minus navbaren */
   background-color: #f8f9fa;
   padding: 20px;
