@@ -14,6 +14,41 @@
     "text": "Muskelfysiologi\nBlokkperiodisering\nHøyde- og Varmetrening\nUtholdenhetstrening"
   },
   {
+    "objectID": "etiologi.html",
+    "href": "etiologi.html",
+    "title": "etiologi",
+    "section": "",
+    "text": "Etiologi"
+  },
+  {
+    "objectID": "etiologi.html#begrep",
+    "href": "etiologi.html#begrep",
+    "title": "etiologi",
+    "section": "Begrep",
+    "text": "Begrep\n\nNedbrytning - hovedsakelig proteinnedbrytning ifm muskelskader\nInflammasjon - betennelsesreaksjon, lokal reaksjon på skade\nFagocytose - innkapsling og fordøyelse/nedbrytning av større partikler\nReparasjon\nRegenerering\nRemodellering\nMyogenese - nydannelse av muskelvev, involverer satelittceller"
+  },
+  {
+    "objectID": "etiologi.html#akutt-fase-minutter---timer",
+    "href": "etiologi.html#akutt-fase-minutter---timer",
+    "title": "etiologi",
+    "section": "Akutt fase (minutter - timer)",
+    "text": "Akutt fase (minutter - timer)\n\nMetabolske forstyrrelser - fatigue\nForstyrrelser i EC-koblinger\n  - RyR-DHPR interaksjonen?\nOpphopning av Ca2+ i cytosol\n  - Aktiverer Calpainer\nStrukturelle endringer i sarkomerene\n  -"
+  },
+  {
+    "objectID": "etiologi.html#tidlig-fase-1-3-dager",
+    "href": "etiologi.html#tidlig-fase-1-3-dager",
+    "title": "etiologi",
+    "section": "Tidlig fase (1-3 dager)",
+    "text": "Tidlig fase (1-3 dager)\n\nMilde og moderate skader tilheles\n  - Strukturene remodelleres\n  - Homeostasen gjenopprettes (20/50 Hz ratio normaliseres)\nModerate og omfattende skader\n  - Forhøya [Ca&lt;sup&gt;2+&lt;/sup&gt;] i cytosol\n  - Inflammatoriske celler i mikrosirkulasjonen"
+  },
+  {
+    "objectID": "etiologi.html#midt-fase-3-7-dager",
+    "href": "etiologi.html#midt-fase-3-7-dager",
+    "title": "etiologi",
+    "section": "Midt fase (3-7 dager)",
+    "text": "Midt fase (3-7 dager)\n\nSarkolemma (dystrofin) brytes ned og forsvinner, basalmembran (col4 / collagen IV) består\nSentrale cellekjerner\nMakrofagene (CD68) “spiser” (fagocytose) fragment/debris\n  - Inflammatorisk prosess\n  - Finner ikke makrofager inne i myofibre med mindre de er nekrotiske!\nEndret fiberdiameter og form (*)\nStore områder med skade blir nekrotiske\nMakrofag infiltrasjon\nSkader på sarkolemma (rupturer)"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Introduksjon",
@@ -53,42 +88,84 @@
     "href": "fagstoff.html",
     "title": "Ulikt fagstoff",
     "section": "",
-    "text": "Muskelfysiologi\nBlokkperiodisering\nHøyde- og Varmetrening\nUtholdenhetstrening"
+    "text": "Muskelfysiologi\nBlokkperiodisering\nHøyde- og Varmetrening\nUtholdenhetstrening\nMuskelødeleggelse\nStyrketrening"
   },
   {
     "objectID": "fagstoff.html#fagstoff",
     "href": "fagstoff.html#fagstoff",
     "title": "Ulikt fagstoff",
     "section": "",
-    "text": "Muskelfysiologi\nBlokkperiodisering\nHøyde- og Varmetrening\nUtholdenhetstrening"
+    "text": "Muskelfysiologi\nBlokkperiodisering\nHøyde- og Varmetrening\nUtholdenhetstrening\nMuskelødeleggelse\nStyrketrening"
+  },
+  {
+    "objectID": "muskelødeleggelse.html",
+    "href": "muskelødeleggelse.html",
+    "title": "Muskelødeleggelse",
+    "section": "",
+    "text": "Muskelfysiologi\nBlokkperiodisering\nHøyde- og Varmetrening\nUtholdenhetstrening\nMuskelødeleggelse\nStyrketrening\n\n\n\n\n\n\n\nDefinisjon treningsinduserte muskelskader\nMetoder for å studere teningsinduserte muskeskalsder\nEtiologi 1. Akuttfase (minutter-timer) 2. Tidlig fase(1-3 dager) 3. Midt-fase (3-7 dager) 4. Sen fase - regenerasjon (7-21 dager)\nBiomarkører for treningsinduserte skasder\n\n\nDirekte\nIndirekte\n\n\nRepeated-bouteffekt\n\n\n\n\n\nTrening sikter på å æke muskelstyrke og/eller forlenge tiden til utmattelse\nVed intensiv trening reduseres musklenes prestrasjonsevne midlertidig (kraftfall)\nVed veldig intensiv og/eller uvant trening kan det oppstå skade * Restitusjonstid: dager = treningsindusert muskelskade\n\nEksentrisk arbeid over evne på lang muskelevne kan gi store sjanser for alvorlige treningsinduserte muskelskader\n\n\n\n\n\nIndirekte, men representativt\n\nSETT INN BILDE\n\n\n\n\nGrader av muskelskade\nMilde skader kan oppstå ved “ordinær trening”\nRabdomyolyse - klinisk tilstand hvor muskelceller brytes ned og proteiner skilles ut i blodbanen * Definisjon: kreatinkinase (CK) 5x øvre referanseområde - 10.000 U/L (stor variasjon!)\nRabdomyolyse kan følge alvorlige muskelskader\n\n\n\n\nØkt CK (klinisk &lt; 10.000 U/L)\nMyoglobinuri (Cola-farga urin) Grunnet nedbrytning av myoglobin som skilles ut i blodbanen\nProblem med full ekstensjon\nMuskelsvelling\nInflammasjon\nCelledød\n\n\n\n\n\nSETT INN BILDE\nSETT INN MER BILDER?\nEtiologi"
+  },
+  {
+    "objectID": "muskelødeleggelse.html#fagstoff",
+    "href": "muskelødeleggelse.html#fagstoff",
+    "title": "Muskelødeleggelse",
+    "section": "",
+    "text": "Muskelfysiologi\nBlokkperiodisering\nHøyde- og Varmetrening\nUtholdenhetstrening\nMuskelødeleggelse\nStyrketrening"
+  },
+  {
+    "objectID": "muskelødeleggelse.html#treningsinduserte-muskelskader",
+    "href": "muskelødeleggelse.html#treningsinduserte-muskelskader",
+    "title": "Muskelødeleggelse",
+    "section": "",
+    "text": "Definisjon treningsinduserte muskelskader\nMetoder for å studere teningsinduserte muskeskalsder\nEtiologi 1. Akuttfase (minutter-timer) 2. Tidlig fase(1-3 dager) 3. Midt-fase (3-7 dager) 4. Sen fase - regenerasjon (7-21 dager)\nBiomarkører for treningsinduserte skasder\n\n\nDirekte\nIndirekte\n\n\nRepeated-bouteffekt\n\n\n\n\n\nTrening sikter på å æke muskelstyrke og/eller forlenge tiden til utmattelse\nVed intensiv trening reduseres musklenes prestrasjonsevne midlertidig (kraftfall)\nVed veldig intensiv og/eller uvant trening kan det oppstå skade * Restitusjonstid: dager = treningsindusert muskelskade\n\nEksentrisk arbeid over evne på lang muskelevne kan gi store sjanser for alvorlige treningsinduserte muskelskader"
+  },
+  {
+    "objectID": "muskelødeleggelse.html#krafttap-predikerer-skadeomfang",
+    "href": "muskelødeleggelse.html#krafttap-predikerer-skadeomfang",
+    "title": "Muskelødeleggelse",
+    "section": "",
+    "text": "Indirekte, men representativt\n\nSETT INN BILDE"
+  },
+  {
+    "objectID": "muskelødeleggelse.html#muskelskade-vs.-rabdomyolyse",
+    "href": "muskelødeleggelse.html#muskelskade-vs.-rabdomyolyse",
+    "title": "Muskelødeleggelse",
+    "section": "",
+    "text": "Grader av muskelskade\nMilde skader kan oppstå ved “ordinær trening”\nRabdomyolyse - klinisk tilstand hvor muskelceller brytes ned og proteiner skilles ut i blodbanen * Definisjon: kreatinkinase (CK) 5x øvre referanseområde - 10.000 U/L (stor variasjon!)\nRabdomyolyse kan følge alvorlige muskelskader\n\n\n\n\nØkt CK (klinisk &lt; 10.000 U/L)\nMyoglobinuri (Cola-farga urin) Grunnet nedbrytning av myoglobin som skilles ut i blodbanen\nProblem med full ekstensjon\nMuskelsvelling\nInflammasjon\nCelledød"
+  },
+  {
+    "objectID": "muskelødeleggelse.html#hvordan-ser-muskelskade-ut",
+    "href": "muskelødeleggelse.html#hvordan-ser-muskelskade-ut",
+    "title": "Muskelødeleggelse",
+    "section": "",
+    "text": "SETT INN BILDE\nSETT INN MER BILDER?\nEtiologi"
   },
   {
     "objectID": "HøydeVarmetrening.html",
     "href": "HøydeVarmetrening.html",
     "title": "Høyde & Varme",
     "section": "",
-    "text": "Muskelfysiologi\nBlokkperiodisering\nHøyde- og Varmetrening"
+    "text": "Muskelfysiologi\nBlokkperiodisering\nHøyde- og Varmetrening\nUtholdenhetstrening\nMuskelødeleggelse\nStyrketrening\nVarmetrening"
   },
   {
     "objectID": "HøydeVarmetrening.html#fagstoff",
     "href": "HøydeVarmetrening.html#fagstoff",
     "title": "Høyde & Varme",
     "section": "",
-    "text": "Muskelfysiologi\nBlokkperiodisering\nHøyde- og Varmetrening"
+    "text": "Muskelfysiologi\nBlokkperiodisering\nHøyde- og Varmetrening\nUtholdenhetstrening\nMuskelødeleggelse\nStyrketrening"
   },
   {
     "objectID": "Blokkperiodisering.html",
     "href": "Blokkperiodisering.html",
     "title": "Blokkperiodisering",
     "section": "",
-    "text": "Muskelfysiologi\nBlokkperiodisering\nHøyde- og Varmetrening\nUtholdenhetstrening\nBlokkperiodisering av utholdenhetstrening handler om å dele opp treningen i bolker, med ulike fokusområder, i ulike treningsperioder. Dette skiller seg fra vanlig, tradisjonell utholdenhetstrening (ofte omtalt som TRAD) hvor man gjerne følger en lik treningsrytme. Innenfor TRAD er man ofte interessert i å sørge for at det er lik treningsbelastning, og at den eventuelt er gradvis økende, ettersom man legger på mer trening, for å oppnå utvikling.\nI blokkperiodisert trening ser man i større grad at det fokuseres på ett og ett fokusområde. Eksempelvis store bolker med mye mengde og lav intensitet (LIT), kanskje med innslag av en høy-intensiv (HIT) økt og/eller en moderat intensitetsøkt (MIT) for å opprettholde annet stimuli i samme periode. I andre perioder av treningen kan det være fokus på HIT-økter, og all annen trening blir satt til stede.\nDe mest avgjørende faktorene for utholdenhetsprestasjon er arbeidsøkonomi, utnyttningsgrad og \\(\\dot{V}O_{2maks}\\)1. Med bakgrunn i dette er det viktig at vi vet hvordan ulike treningsprotokoller og økter påvirker de ulike faktorene. For å oppnå bedringer i arbeidsøkonomi hos godt trente individer, tyder det på at store mengder LIT over en lenger periode vil være gunstig2,3. Når det kommer til forbedringer i laktatterskel, målt som arbeidsintensitet på en gitt laktatverdi og \\(\\dot{V}O_{2maks}\\) blant godt trente utøvere, har man sett at både LIT og HIT trening gir positiv effekt4–7. Effekten vil likevel variere, ut i fra varighet, intensitet og hyppighet av treningsøkter [8;9; ]"
+    "text": "Muskelfysiologi\nBlokkperiodisering\nHøyde- og Varmetrening\nUtholdenhetstrening\nMuskelødeleggelse\nStyrketrening\nBlokkperiodisering av utholdenhetstrening handler om å dele opp treningen i bolker, med ulike fokusområder, i ulike treningsperioder. Dette skiller seg fra vanlig, tradisjonell utholdenhetstrening (ofte omtalt som TRAD) hvor man gjerne følger en lik treningsrytme. Innenfor TRAD er man ofte interessert i å sørge for at det er lik treningsbelastning, og at den eventuelt er gradvis økende, ettersom man legger på mer trening, for å oppnå utvikling.\nI blokkperiodisert trening ser man i større grad at det fokuseres på ett og ett fokusområde. Eksempelvis store bolker med mye mengde og lav intensitet (LIT), kanskje med innslag av en høy-intensiv (HIT) økt og/eller en moderat intensitetsøkt (MIT) for å opprettholde annet stimuli i samme periode. I andre perioder av treningen kan det være fokus på HIT-økter, og all annen trening blir satt til stede.\nDe mest avgjørende faktorene for utholdenhetsprestasjon er arbeidsøkonomi, utnyttningsgrad og \\(\\dot{V}O_{2maks}\\)1. Med bakgrunn i dette er det viktig at vi vet hvordan ulike treningsprotokoller og økter påvirker de ulike faktorene. For å oppnå bedringer i arbeidsøkonomi hos godt trente individer, tyder det på at store mengder LIT over en lenger periode vil være gunstig2,3. Når det kommer til forbedringer i laktatterskel, målt som arbeidsintensitet på en gitt laktatverdi og \\(\\dot{V}O_{2maks}\\) blant godt trente utøvere, har man sett at både LIT og HIT trening gir positiv effekt4–7. Effekten vil likevel variere, ut i fra varighet, intensitet og hyppighet av treningsøkter8,9."
   },
   {
     "objectID": "Blokkperiodisering.html#fagstoff",
     "href": "Blokkperiodisering.html#fagstoff",
     "title": "Blokkperiodisering",
     "section": "",
-    "text": "Muskelfysiologi\nBlokkperiodisering\nHøyde- og Varmetrening\nUtholdenhetstrening"
+    "text": "Muskelfysiologi\nBlokkperiodisering\nHøyde- og Varmetrening\nUtholdenhetstrening\nMuskelødeleggelse\nStyrketrening"
   },
   {
     "objectID": "Muskelfysiologi.html",
@@ -341,5 +418,47 @@
     "title": "Muskelfysiologi",
     "section": "Rekrutteringshierarkiet",
     "text": "Rekrutteringshierarkiet"
+  },
+  {
+    "objectID": "styrketrening.html",
+    "href": "styrketrening.html",
+    "title": "Styrketrening",
+    "section": "",
+    "text": "Muskelfysiologi\nBlokkperiodisering\nHøyde- og Varmetrening\nUtholdenhetstrening\nMuskelødeleggelse\nStyrketrening"
+  },
+  {
+    "objectID": "styrketrening.html#fagstoff",
+    "href": "styrketrening.html#fagstoff",
+    "title": "Styrketrening",
+    "section": "",
+    "text": "Muskelfysiologi\nBlokkperiodisering\nHøyde- og Varmetrening\nUtholdenhetstrening\nMuskelødeleggelse\nStyrketrening"
+  },
+  {
+    "objectID": "styrketrening.html#gode-grunner-til-å-starte-med-styrketrening",
+    "href": "styrketrening.html#gode-grunner-til-å-starte-med-styrketrening",
+    "title": "Styrketrening",
+    "section": "Gode grunner til å starte med styrketrening",
+    "text": "Gode grunner til å starte med styrketrening\nStyrketrening er sett på som kanskje det viktigste for å opprettholde en god livskalitet lengst mulig ut i livet. Styrketrening gjør det enklere å gjennomføre daglige gjøremål, og holde funksjonsevnen god i lang tid. Det blir viktigere og viktigere desto lenger ut i livet du kommer, dette fordi man har sett sarkopeni hos eldre individer. Vi har muligheten til å motvirke dette ved å trene tung styrketrening.\nStyrketrening bidrar til bedre livskalitet akutt. Trening generelt hjelper på den mentale helsen, styrketrening bidrar til å motvirke muskel-skjelettplager og øker muskelmasse og styrke.\nEffekter av fysisk aktivitet1."
+  },
+  {
+    "objectID": "styrketrening.html#vil-trening-som-gir-stor-muskelvekst-også-gi-best-helseeffekt",
+    "href": "styrketrening.html#vil-trening-som-gir-stor-muskelvekst-også-gi-best-helseeffekt",
+    "title": "Styrketrening",
+    "section": "Vil trening som gir stor muskelvekst også gi best helseeffekt?",
+    "text": "Vil trening som gir stor muskelvekst også gi best helseeffekt?\nMotstand har ikke for mye å si når det kommer til hypertrofi, derimot er det god evidens for at tyngre vekter gir bedre fremgang på styrke. På treningsvolum sies det at ett til tre sett er gunstig for de som er nye til styrketrening, for mer avanserte løftere kan man gjerne legge på mer volum etter hvert. Vi ser at volum har noe å si for både hypertrofi og styrke. Det anbefales en samling av alle typer øvelser, både unilaterale, bilaterale, en- og flerleddsøvelser. Rekkefølge spiller også trolig inn på fremgang i styrke. Det du ønsker å fokusere på bør trenes først. Det anbefales 1-2 minutter pause mellom settene. Kontrasksjonshastighet spiller en rolle, saktere eksentrisk for litt mer avanserte løftere. Når det kommer til treningsfrekvens virker det som det gir samme resultat om du kontrollerer for volum og fordeler det på fler økter.\nHVILE MELLOM SETT?!?!?!?"
+  },
+  {
+    "objectID": "styrketrening.html#treningsprinsippene",
+    "href": "styrketrening.html#treningsprinsippene",
+    "title": "Styrketrening",
+    "section": "Treningsprinsippene",
+    "text": "Treningsprinsippene\n\nKontinuitet\nProgresjon\nIndividuelle tilpasninger\nBelastning og tilpasning\nSpesifisitet\nVariasjon\nKontroll"
+  },
+  {
+    "objectID": "styrketrening.html#negative-effekter-av-styrketrening",
+    "href": "styrketrening.html#negative-effekter-av-styrketrening",
+    "title": "Styrketrening",
+    "section": "Negative effekter av styrketrening?",
+    "text": "Negative effekter av styrketrening?\nDet meste tyder på at det er ganske liten risiko for skadeutvikling i styrketrening. Det kan tenkes at det underrapporteres mtp. skader innenfor styrketreningen, likevel kan vi nok konkludere med at det lønner seg å gjøre styrketrening."
   }
 ]

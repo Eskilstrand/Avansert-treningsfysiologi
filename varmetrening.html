@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Ulikt fagstoff</title>
+<title>varmetrening</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -67,6 +67,35 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 <link rel="stylesheet" href="styles.css">
 <link rel="stylesheet" href="fagstoff.css">
@@ -89,7 +118,7 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">Avansert treningsfysiologi</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="./fagstoff.html" aria-current="page"> 
+    <a class="nav-link" href="./fagstoff.html"> 
 <span class="menu-text">Fagstoff</span></a>
   </li>  
   <li class="nav-item">
@@ -111,46 +140,28 @@ ul.task-list li input[type="checkbox"] {
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
-<header id="title-block-header" class="quarto-title-block default">
-<div class="quarto-title">
-<h1 class="title">Ulikt fagstoff</h1>
-</div>
 
 
 
-<div class="quarto-title-meta">
-
-    
-  
-    
-  </div>
-  
-
-
-</header>
-
-
-<section id="fagstoff" class="level2 sidebar">
-<h2 class="anchored" data-anchor-id="fagstoff">Fagstoff</h2>
-<ul>
-<li><a href="Muskelfysiologi.html">Muskelfysiologi</a></li>
-<li><a href="Blokkperiodisering.html">Blokkperiodisering</a></li>
-<li><a href="HøydeVarmetrening.html">Høyde- og Varmetrening</a></li>
-<li><a href="utholdenhetstrening.html">Utholdenhetstrening</a></li>
-<li><a href="muskelødeleggelse.html">Muskelødeleggelse</a></li>
-<li><a href="styrketrening.html">Styrketrening</a></li>
-</ul>
+<section id="effekten-av-varmetrening-på-hemoglobinmasse-og-dotvo_2maks" class="level2">
+<h2 class="anchored" data-anchor-id="effekten-av-varmetrening-på-hemoglobinmasse-og-dotvo_2maks">Effekten av varmetrening på hemoglobinmasse og <span class="math inline">\(\dot{V}O_{2maks}\)</span></h2>
+<section id="introduksjon" class="level3">
+<h3 class="anchored" data-anchor-id="introduksjon">Introduksjon</h3>
 </section>
-<section id="velkommen-til-fagstoff" class="level1">
-<h1>Velkommen til Fagstoff</h1>
-<p>Her finner du ulike kapitler med fordypning i treningsfysiologi:</p>
-<ul>
-<li><strong>Muskelfysiologi:</strong> Utforsk mekanismer som styrer muskelvekst og styrke.</li>
-<li><strong>Blokkperiodisering:</strong> Strategisk planlegging av treningsbelastning.</li>
-<li><strong>Høyde- og Varmetrening:</strong> Tilpasninger til ekstreme miljøer.</li>
-</ul>
+<section id="metode" class="level3">
+<h3 class="anchored" data-anchor-id="metode">Metode</h3>
+</section>
+<section id="resultat" class="level3">
+<h3 class="anchored" data-anchor-id="resultat">Resultat</h3>
+</section>
+<section id="diskusjon" class="level3">
+<h3 class="anchored" data-anchor-id="diskusjon">Diskusjon</h3>
+</section>
+<section id="referanser" class="level3">
+<h3 class="anchored" data-anchor-id="referanser">Referanser</h3>
 
 
+</section>
 </section>
 
 </main> <!-- /main -->
